@@ -1,0 +1,16 @@
+html,body{
+    direction: rtl;
+}
+
+.bookNav{
+    margin: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav a{
+    box-shadow: none;
+}
